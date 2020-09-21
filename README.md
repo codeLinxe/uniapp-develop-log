@@ -13,7 +13,7 @@ uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编�
 * 方案：取消自动获得焦点，让用户手动点击输入框
 ------
 * 问题：在微信H5页面，video标签在某些型号安卓手机上会出现cover-view失效问题，具体表现为点击播放前cover-view显示在视频上方，点击播放视频会全屏显示，然后退出全屏后，cover-view被video覆盖，无法显示
-* 方案：在video标签加上微信特有的属性 x5-video-player-type ，使用同层播放功能。
+* 方案：在video标签加上微信特有的属性 x5-video-player-type ，使用同层播放功能
 ```
 x5-video-player-type：h5-page
 ```

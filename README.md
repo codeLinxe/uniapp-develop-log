@@ -18,3 +18,8 @@ uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编�
 x5-video-player-type：h5-page
 ```
 ------
+
+## 资料
+1. [nvue开发注意](https://www.cnblogs.com/goloving/p/14179699.html)
+2. [uniapp安卓缓存计算、缓存清理](https://ask.dcloud.net.cn/article/36305)
+3. [uni-app 全面屏、刘海屏适配（iphoneX适配）及安全区设置](https://ask.dcloud.net.cn/article/35564)
